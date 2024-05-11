@@ -9,3 +9,4 @@ There are infinite possibilities to what cool things you can make
 - Playing piano is fun
 - Dark mode ftw
 - Max heaps are cool
+- Linked lists are mid
